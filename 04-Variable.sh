@@ -10,5 +10,4 @@ echo "a + b = $((a + b))"
 TodaysDate=2025-10-01
 echo "Today's date is $TodaysDate"
 
-TodaysDate=Apr 12 2025
-echo "Today's date is $TodaysDate"
+
